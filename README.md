@@ -1,5 +1,7 @@
 # atom-vue2-autocomplete
 
+> Still under development **(might not be stable)**. Contributions are welcome :smiley:
+
 Vue.js 2.0 autocomplete
 
 
