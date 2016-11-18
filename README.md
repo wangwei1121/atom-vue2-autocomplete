@@ -1,18 +1,15 @@
-# atom-vue2-autocomplete
+# Vue.js 2.0 Autocomplete for Atom.io
 
 > Still under development **(might not be stable)**. Contributions are welcome :smiley:
 
-Vue.js 2.0 autocomplete
-
-
-# Atom autocomplete for Vue.js 2.0
+## Autocomplete
 
 ### Supported tags
 
 * partial
 * slot
 
-### Supported Directives
+### Supported Directives [IN PROGRESS]
 
 * v-text
 * v-html
@@ -27,7 +24,7 @@ Vue.js 2.0 autocomplete
 * v-cloak
 * v-once
 
-### Built-In Components
+### Built-In Components [TODO]
 
 * component
 * transition
@@ -35,6 +32,12 @@ Vue.js 2.0 autocomplete
 * keep-alive
 * slot
 
-### Contribution
+## Snippets
 
-Is always welcome :D
+> Works **only** with `*.vue` files.
+
+Just type `vtemplate`, `vscript` or `vstyle` to generate the respective sections.
+
+## Contribution
+
+It's always welcome :D. Just fork and open a PR.
