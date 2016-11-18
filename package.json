@@ -1,7 +1,7 @@
 {
   "name": "vue2-autocomplete",
   "main": "./lib/main",
-  "version": "0.1.0-alpha.2",
+  "version": "0.1.0-alpha.3",
   "description": "Vue.js 2.0+ autocomplete for Atom",
   "keywords": [
     "vue",
